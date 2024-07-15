@@ -5,5 +5,4 @@ class SwitchComponent < ViewComponent::Base
     @title = title
     @value = value
   end
-
 end
